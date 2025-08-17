@@ -1,6 +1,4 @@
-# Manning Capital
-
-## Hello! 👋
+# Hello! 👋
 
 I'm Glyn, a passionate quantitative finance enthusiast and aspiring algorithmic trader. Welcome to my personal quantitative trading research and development organization. This is where I explore, learn, and build quantitative trading algorithms.
 
