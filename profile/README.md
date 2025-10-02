@@ -1,51 +1,19 @@
 # Hello! 👋
 
-I'm Glyn, a passionate quantitative finance enthusiast and aspiring algorithmic trader. Welcome to my personal quantitative trading research and development organization. This is where I explore, learn, and build quantitative trading algorithms.
+I'm Glyn, a mathematics enthusiast with a deep passion for probability theory and its applications in quantitative finance. Welcome to my personal research organization where I explore the intersection of mathematical rigor and algorithmic trading. This is where I dive into the probabilistic foundations of financial markets and build trading systems grounded in solid mathematical principles.
 
-## About This Project
+## What I'm Building
 
-I'm passionate about quantitative finance and algorithmic trading. This organization serves as my learning laboratory where I:
+This is my learning laboratory where I'm diving deep into quantitative trading through the lens of probability theory. I'm currently focused on developing algorithmic trading strategies, building backtesting frameworks, and exploring how mathematical concepts from probability theory can be applied to financial markets. Think of it as my sandbox for experimenting with statistical arbitrage, risk management, and market analysis.
 
-- **Research** quantitative trading strategies and market dynamics
-- **Develop** algorithmic trading systems and backtesting frameworks
-- **Learn** from market data analysis and statistical modeling
-- **Experiment** with various quantitative approaches to market prediction
+## Current Focus
 
-## Current Focus Areas
+Right now I'm particularly interested in statistical arbitrage and machine learning strategies grounded in probability theory. I love exploring how random variables and distributions model asset returns, how expectation and variance help assess risk, and how conditional probability and independence inform portfolio diversification. I'm fascinated by stochastic processes for modeling price movements, martingales in option pricing, and Bayesian inference for updating beliefs about market conditions. I'm always learning new techniques and approaches to make sense of market data and build robust trading systems.
 
-- **Algorithmic Trading Strategies**: Developing and backtesting quantitative models
-- **Risk Management**: Implementing robust risk controls and position sizing
-- **Market Analysis**: Statistical analysis of market data and patterns
-- **Backtesting Frameworks**: Building tools to validate trading strategies
+## Let's Connect
 
-## Research Interests
-
-- Statistical arbitrage and mean reversion strategies
-- Machine learning applications in financial markets
-- High-frequency trading algorithms
-- Portfolio optimization and asset allocation
-- Market microstructure analysis
-
-## Learning Journey
-
-This is an educational project where I'm continuously learning about:
-- Quantitative finance principles
-- Programming for financial applications
-- Statistical modeling and time series analysis
-- Market microstructure and trading mechanics
-
-## Contributing
-
-While this is primarily a personal learning project, I'm always open to:
-- **Discussions** about quantitative trading concepts
-- **Collaboration** on research projects
-- **Feedback** on algorithms and approaches
-- **Knowledge sharing** with the quant community
+I'm always excited to discuss quantitative trading concepts, collaborate on research projects, or just chat about the fascinating world of algorithmic finance. Feel free to reach out!
 
 ## Disclaimer
 
-**This is a personal learning project and not financial advice.** All research, algorithms, and strategies are for educational purposes only. Trading involves substantial risk and should only be undertaken with proper understanding and risk management.
-
----
-
-*Building the future of quantitative trading, one algorithm at a time.*
+This is a personal learning project and not financial advice. All research and algorithms are for educational purposes only. Trading involves substantial risk and should only be undertaken with proper understanding and risk management.
